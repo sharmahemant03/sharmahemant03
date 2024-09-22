@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hemant Sharma</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Full Stack E-Commerce Website**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
